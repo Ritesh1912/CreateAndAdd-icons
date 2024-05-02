@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [React-Drop-and-Drag-file](https://github.com/Ritesh1912/React-Drop-and-Drag-file.git)
+- 🔭 I’m currently working on [React-Drop and Drag-file](https://github.com/Ritesh1912/React-Drop-and-Drag-file.git)
 
 - 🌱 I’m currently learning **Angular, Figma**
 
