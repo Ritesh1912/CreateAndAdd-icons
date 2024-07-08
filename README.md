@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [React-Drop and Drag-file](https://github.com/Ritesh1912/React-Drop-and-Drag-file.git)
+- 🔭 I’m currently working on [Ecommerce Website](https://shopping-webapp-site.netlify.app/)
 
 - 🌱 I’m currently learning **Angular, Figma**
 
 - 👯 I’m looking to collaborate on [Cryptocurrency Tracker App](https://github.com/Ritesh1912/Cryptocurrency-Tracker.git)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-riteshsingh.netlify.app/](https://portfolio-riteshsingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-riteshsingh.netlify.app/](https://latest-portfolio-site.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Bootstrap**
 
