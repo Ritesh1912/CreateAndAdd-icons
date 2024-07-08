@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **riteshsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RW0CXDgcFNSsB1cSjQG-jY6EeO0GlFf6/view?usp=sharing](https://drive.google.com/file/d/1RW0CXDgcFNSsB1cSjQG-jY6EeO0GlFf6/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xBK9zIrn7l3pRs_zGHaJP9xFGUrSgq9n/view?usp=sharing](https://drive.google.com/file/d/1xBK9zIrn7l3pRs_zGHaJP9xFGUrSgq9n/view?usp=sharing)
 - ⚡ Fun fact **I think i can Sing**
 
 <h3 align="left">Connect with me:</h3>
