@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Bootstrap**
 
-- 📫 How to reach me **riteshsingh@gmail.com**
+- 📫 How to reach me **riteshsingh191292@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xBK9zIrn7l3pRs_zGHaJP9xFGUrSgq9n/view?usp=sharing](https://drive.google.com/file/d/1xBK9zIrn7l3pRs_zGHaJP9xFGUrSgq9n/view?usp=sharing)
 - ⚡ Fun fact **I think i can Sing**
